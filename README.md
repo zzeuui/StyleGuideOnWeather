@@ -1,4 +1,4 @@
-# StyleGuideOnWeather
+# 오늘 뭐 입지(StyleGuideOnWeather)
 
 ### 1. 회원가입
 <p align="center">
