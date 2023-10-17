@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/v1.iml" filepath="$PROJECT_DIR$/.idea/modules/v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/v1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/v1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpasyncclient-4.1.4/v1.httpasyncclient-4.1.4.iml" filepath="$PROJECT_DIR$/.idea/modules/httpasyncclient-4.1.4/v1.httpasyncclient-4.1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpclient5-5.0.1/v1.httpclient5-5.0.1.iml" filepath="$PROJECT_DIR$/.idea/modules/httpclient5-5.0.1/v1.httpclient5-5.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpcore5-5.0.2/v1.httpcore5-5.0.2.iml" filepath="$PROJECT_DIR$/.idea/modules/httpcore5-5.0.2/v1.httpcore5-5.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jxl/v1.jxl.iml" filepath="$PROJECT_DIR$/.idea/modules/jxl/v1.jxl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poi-3.11/v1.poi-3.11.iml" filepath="$PROJECT_DIR$/.idea/modules/poi-3.11/v1.poi-3.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poi-ooxml-3.11/v1.poi-ooxml-3.11.iml" filepath="$PROJECT_DIR$/.idea/modules/poi-ooxml-3.11/v1.poi-ooxml-3.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poi-ooxml-schemas-3.11/v1.poi-ooxml-schemas-3.11.iml" filepath="$PROJECT_DIR$/.idea/modules/poi-ooxml-schemas-3.11/v1.poi-ooxml-schemas-3.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmlbeans-2.6.0/v1.xmlbeans-2.6.0.iml" filepath="$PROJECT_DIR$/.idea/modules/xmlbeans-2.6.0/v1.xmlbeans-2.6.0.iml" />
+    </modules>
+  </component>
+</project>

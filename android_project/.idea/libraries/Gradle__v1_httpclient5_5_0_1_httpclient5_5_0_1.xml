@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: v1.httpclient5-5.0.1.httpclient5-5.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/httpclient5-5.0.1/httpclient5-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
