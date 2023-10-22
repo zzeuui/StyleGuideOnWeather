@@ -1,0 +1,10 @@
+include ':httpasyncclient-4.1.4'
+include ':httpcore5-5.0.2'
+include ':httpclient5-5.0.1'
+include ':xmlbeans-2.6.0'
+include ':poi-ooxml-schemas-3.11'
+include ':poi-ooxml-3.11'
+include ':poi-3.11'
+include ':jxl'
+include ':app'
+rootProject.name = "v1"
